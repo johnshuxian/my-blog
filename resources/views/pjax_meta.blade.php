@@ -1,0 +1,1 @@
+<meta http-equiv="x-pjax-version" content="{{ asset('/css/app.css') }}">
